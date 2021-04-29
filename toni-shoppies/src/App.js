@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Welcome to the Shoppies!
+          Welcome to the Shoppies!!
         </a>
       </header>
     </div>
